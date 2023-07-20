@@ -1,0 +1,15 @@
+{
+  "contact": "u/ilangvless",
+  "templates": [
+    {
+      "name": "r/PlaceFR",
+      "sources": [
+        "https://i.imgur.com/yO18GtG.png"
+      ],
+      "x": 44,
+      "y": 700
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
